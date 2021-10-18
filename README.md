@@ -21,7 +21,7 @@ Following the successful completion of the audit and presentation of the electio
 • The number of votes and the percentage of the total votes each candidate received (Charles Casper Stockham: 23.0% (85,213) Diana DeGette: 73.8% (272,892) Raymon Anthony Doane: 3.1% (11,606))
 ![](Resources/CandidateResults.png)
 • Diana DeGette won the election with a vote count of 272,892 which made up 73.8% of the total votes.
-![](Resources/Electionresults.png)
+![](Resources/ElectionResults.png)
 
 ## Election-Audit Summary
 The Python script used to audit this congressional election result helps us automate electoral calculations to identify the winner of an election quickly. In addition, it will assist the election board in publishing these results as soon as the vote counts are completed and data is available. Not only will this increase the speed with which election audits are completed, but it will also reduce the possibility of human error when other tools, such as Excel, are used to perform such calculations. 
